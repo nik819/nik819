@@ -8,16 +8,12 @@
 
 ## 👨‍💻 About Me
 
-I’m a dedicated and highly motivated **Software Developer** with a strong foundation in computer science, problem-solving, and real-world application development.  
-With hands-on experience in full-stack development and a passion for building scalable, user-centric products, I consistently strive to create software that’s clean, efficient, and impactful.
+I'm a passionate **Software Developer** with a love for turning ideas into reality through clean and efficient code.  
+I enjoy building web applications, exploring new technologies, and solving real-world problems through software.
 
-I specialize in backend development using **Python (Django, Flask)** and have experience building REST APIs, deploying apps using **Docker**, and working with cloud services. On the frontend, I enjoy creating smooth user experiences with **React** and modern JavaScript.
+I specialize in backend development using **Python (Django, Flask)** and have experience building REST APIs
 
-I regularly enhance my algorithmic thinking through platforms like **LeetCode**, where I’ve solved 300+ challenges. I also enjoy participating in coding competitions and have a keen interest in system design and scalable architecture.
-
-I’m driven by curiosity, collaboration, and a strong desire to contribute to meaningful projects — values that deeply align with Google’s mission of organizing the world’s information and making it universally accessible and useful.
-
-Currently, I’m seeking opportunities where I can work on challenging problems, learn from world-class engineers, and grow as a developer and innovator.
+I regularly enhance my algorithmic thinking through platforms like **LeetCode**, where I’ve solved 200+ challenges.
 
 
 ### 💼 What I Do
