@@ -1,4 +1,4 @@
-![GitHub Banner](https://camo.githubusercontent.com/2decd7d04a09206cb9d461baa518bfabb4b2b313c0aac6bcbb3e05c197a8d04e/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67)
+<!-- //![GitHub Banner](https://camo.githubusercontent.com/2decd7d04a09206cb9d461baa518bfabb4b2b313c0aac6bcbb3e05c197a8d04e/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67) -->
 
 ## 👋 Hey there! I'm Nikhil Joshi
 
@@ -41,31 +41,27 @@ I regularly enhance my algorithmic thinking through platforms like **LeetCode**,
 ### 🔍 Problem Solving on LeetCode:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nikhil_joshi21/)
 
+### 🧑‍💻 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nik819&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik819&layout=compact&theme=radical" height="160"/>
+</p>
+
 
 ### 🎯 Fun Fact
 > I’m addicted to learning new tech & solving algorithmic challenges 👨‍🔬
 
 
-### 📫 Let's Connect!
-- 📧 [joshinikhil404@gmail.com]
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/nikhil-joshi-84360b247/)
-- 🌐 [Portfolio/Website](https://joshi-nikhil.netlify.app/)
+<h3>📫 Let's Connect!</h3>
 
-
----
-
-
-<!--
-**nik819/nik819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="mailto:joshinikhil404@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-joshi-84360b247/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://joshi-nikhil.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+</p>
